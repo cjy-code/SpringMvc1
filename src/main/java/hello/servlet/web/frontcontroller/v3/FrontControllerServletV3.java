@@ -2,7 +2,7 @@ package hello.servlet.web.frontcontroller.v3;
 
 import hello.servlet.basic.HelloServlet;
 import hello.servlet.web.frontcontroller.ModelView;
-import hello.servlet.web.frontcontroller.MyView;
+import hello.servlet.web.frontcontroller.v4.MyView;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
